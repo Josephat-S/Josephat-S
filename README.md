@@ -60,28 +60,10 @@
 
 ---
 
-## 📌 Current Projects
-- 🔹 **Driver Trip Log System** – Automating vehicle trip records and generating insightful reports.
-
----
-
 ## 📊 Advanced GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josephat-S&show_icons=true&theme=radical&count_private=true&hide=issues,contribs&custom_title=Josephat's%20GitHub%20Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephat-S&layout=compact&theme=radical&langs_count=10&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Josephat-S&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180px"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josephat-S&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Josephat-S?template=classic&config.timezone=Africa%2FKigali" />
 </p>
 
 ---
