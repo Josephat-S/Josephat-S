@@ -66,9 +66,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josephat-S&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josephat-S&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josephat-S&show_icons=true&theme=radical&count_private=true&hide=issues&custom_title=Josephat's%20GitHub%20Stats" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josephat-S&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephat-S&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" height="200px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josephat-S&theme=radical" alt="Profile Summary Card" />
 </p>
 
 ---
