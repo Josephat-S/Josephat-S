@@ -70,7 +70,7 @@
 
 ## 📫 Let's Connect
 - 📧 **Email:** sangwajozaphat@gmail.com
-- 🔗 **LinkedIn:** [Sangwa Josephat](https://www.linkedin.com/in/ituze-agacyo-ebed-meleck-65a13b2b7/)
+- 🔗 **LinkedIn:** [Sangwa Josephat]([https://www.linkedin.com/in/josephat-sangwa-219b9a214/])
 
 ---
 
