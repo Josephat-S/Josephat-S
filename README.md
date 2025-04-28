@@ -70,7 +70,7 @@
 
 ## 📫 Let's Connect
 - 📧 **Email:** sangwajozaphat@gmail.com
-- 🔗 **LinkedIn:** [Sangwa Josephat]([https://www.linkedin.com/in/josephat-sangwa-219b9a214/])
+- 🔗 **LinkedIn:** [Sangwa Josephat](https://www.linkedin.com/in/josephat-sangwa-219b9a214/)
 
 ---
 
