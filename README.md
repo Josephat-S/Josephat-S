@@ -41,14 +41,6 @@
 
 ---
 
-## 📊 Advanced GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josephat-S&theme=radical" />
-</p>
-
----
-
 ## 📫 Let's Connect
 - 📧 **Email:** sangwajozaphat@gmail.com
 - 🔗 **LinkedIn:** [Sangwa Josephat](https://www.linkedin.com/in/josephat-sangwa-219b9a214/)
