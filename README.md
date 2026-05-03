@@ -16,7 +16,7 @@ Engineering is not just about writing code; it is about solving complex problems
 
 ---
 
-### 🚀 Core Technical Domains (Click to Expand)
+### Core Technical Domains (Click to Expand)
 
 <details>
 <summary><b>🏛️ Backend & Systems Architecture</b></summary>
@@ -54,23 +54,18 @@ Engineering is not just about writing code; it is about solving complex problems
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josephat-S&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
-> [!NOTE]
-> **Production-Only Elements:** The animations below (Snake and Stats) are designed for the GitHub environment. They may appear as broken links in local previews but will render perfectly once pushed to your repository.
-
 > [!TIP]
-> **GitHub Contribution Snake**
-> ![Contribution Snake](https://raw.githubusercontent.com/Josephat-S/Josephat-S/output/github-contribution-grid-snake.svg)
-
----
+> **Dynamic Profile Animation:** To add the animated "Contribution Snake" (a staple for professional engineer profiles), you can easily set it up using [this action guide](https://github.com/Platane/snk).
 
 ---
 
 ### 📊 Professional Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josephat-S&show_icons=true&theme=dark&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephat-S&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josephat-S&show_icons=true&theme=radical" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephat-S&layout=compact&theme=radical" />
 </p>
+
 
 
 
