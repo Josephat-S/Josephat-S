@@ -61,10 +61,11 @@ Engineering is not just about writing code; it is about solving complex problems
 
 ### 📊 Professional Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josephat-S&show_icons=true&theme=radical" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephat-S&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josephat-S&theme=radical" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Josephat-S&theme=radical" />
 </p>
+
 
 
 
